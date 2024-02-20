@@ -46,7 +46,7 @@
 
 ## Snake Animation 🐍
 
-[![Snake Animation](https://raw.githubusercontent.com/zarar-code/zarar-code/main/dist/github-snake.svg)](https://github.com/your_username/your_repository_name)
+[![Snake Animation](https://raw.githubusercontent.com/zarar-code/zarar-code/main/dist/snake.svg)](https://github.com/zarar-code/zarar-code)
 
 Feel free to click on the snake animation above to see it in action! 🎉
 
