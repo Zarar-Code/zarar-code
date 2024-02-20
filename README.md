@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Zarar Haider </h2>
 
 ###
 
@@ -44,12 +44,7 @@
 
 <br clear="both">
 
-## Snake Animation 🐍
+## Snake 🐍
 
 [![Snake Animation](https://raw.githubusercontent.com/zarar-code/zarar-code/output/snake.svg)](https://github.com/zarar-code/zarar-code)
 
-Feel free to click on the snake animation above to see it in action! 🎉
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
