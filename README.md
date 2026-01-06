@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://zararportfolio.netlify.app/](https://zararportfolio.netlify.app/)
 
-- 📫 How to reach me **zararofficial21@gmail.com**
-
 ###
 ###
 
