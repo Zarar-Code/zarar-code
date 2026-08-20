@@ -22,18 +22,26 @@
 
 </div>
 
-```bash
-$ whoami
-Zarar Haider — Automation Engineer & Full-Stack Developer
+```javascript
+const zarar = {
+    name: "Zarar Haider",
+    role: "Automation Engineer & Full-Stack Developer",
+    focus: "Connecting business tools into one automated system",
+    stack: {
+        automation: ["Zoho", "HubSpot", "GoHighLevel", "n8n", "Zapier"],
+        ai: ["OpenAI", "Claude", "RAG", "ML Models"],
+        fullstack: ["React", "Next.js", "Python", "FastAPI", "PostgreSQL"]
+    },
 
-$ cat focus.txt
-> Building workflow automations across Zoho, HubSpot, GHL, and n8n
-> Connecting CRMs, forms, and business tools into one automated system
-> Full-stack development: backend APIs, dashboards, and integrations
-> AI/ML integration inside automation pipelines, not bolted on after
+    whatIBuild: () => [
+        "⚡ Workflow automations across Zoho, HubSpot, GHL, and n8n",
+        "🔗 CRMs, forms, and business tools wired into one system",
+        "🛠️ Full-stack backend APIs, dashboards, and integrations",
+        "🧠 AI/ML integration built into the pipeline, not bolted on after"
+    ],
 
-$ echo $MISSION
-"If it's repetitive, it should be automated. If it's manual, it's a bug."
+    mission: "If it's repetitive, it should be automated. If it's manual, it's a bug."
+};
 ```
 
 <br clear="right"/>
