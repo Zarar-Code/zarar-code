@@ -18,6 +18,8 @@
 
 ## 👋 About Me
 
+<img align="right" alt="Automation" width="380" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+
 </div>
 
 ```bash
@@ -33,6 +35,8 @@ $ cat focus.txt
 $ echo $MISSION
 "If it's repetitive, it should be automated. If it's manual, it's a bug."
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -102,12 +106,12 @@ $ echo $MISSION
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zarar-Code&count_private=true&show_icons=true&theme=radical&border_radius=12&hide_border=true&bg_color=1a1a1a&title_color=FF7A59&icon_color=FF7A59" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=Zarar-Code&count_private=true&theme=radical&border_radius=12&hide_border=true&background=1a1a1a&ring=FF7A59&fire=C8202F" alt="GitHub Streak Stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Zarar-Code&count_private=true&show_icons=true&theme=radical&border_radius=12&hide_border=true&bg_color=1a1a1a&title_color=FF7A59&icon_color=FF7A59" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=Zarar-Code&count_private=true&theme=radical&border_radius=12&hide_border=true&background=1a1a1a&ring=FF7A59&fire=C8202F" alt="GitHub Streak Stats"/>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarar-Code&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=12&hide_border=true&bg_color=1a1a1a&title_color=FF7A59" alt="Top Languages"/>
+<img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zarar-Code&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=12&hide_border=true&bg_color=1a1a1a&title_color=FF7A59" alt="Top Languages"/>
 
 <br/>
 
@@ -162,4 +166,11 @@ SETUP NOTES (delete this comment block once done):
 
 5. If you want a Contribution Snake animation like Zain's, use the same
    .github/workflows/snake.yml setup from his file, just with github_user_name: Zarar-Code.
+
+6. Fixed broken stat cards: the original github-readme-stats.vercel.app project is now
+   officially unmaintained by its creator, and its public instance is unreliable by their
+   own admission (rate limits/traffic). This file now uses github-stats-extended.vercel.app
+   (the actively maintained successor, same query-parameter format) for Stats and Top
+   Languages, and github-readme-streak-stats-eight.vercel.app (a confirmed-working mirror)
+   for the Streak card, since streak-stats.demolab.com is also currently down.
 -->
