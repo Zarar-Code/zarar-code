@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-<img align="right" alt="Automation" width="380" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+<img align="right" alt="Automation" width="380" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 </div>
 
@@ -173,4 +173,9 @@ SETUP NOTES (delete this comment block once done):
    (the actively maintained successor, same query-parameter format) for Stats and Top
    Languages, and github-readme-streak-stats-eight.vercel.app (a confirmed-working mirror)
    for the Streak card, since streak-stats.demolab.com is also currently down.
+
+7. The About Me avatar ("Mr Robot") is a verified permanent link from the same curated
+   GIF collection your original file's gif came from (Anmol-Baranwal/Cool-GIFs-For-Github
+   on GitHub) — confirmed to exist and load before being added here, unlike the
+   placeholder used in an earlier draft of this file.
 -->
